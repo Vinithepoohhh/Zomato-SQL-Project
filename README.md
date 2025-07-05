@@ -70,4 +70,5 @@ The dataset simulates Zomato orders and contains the following columns:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-sql-analytics.git
+   git clone https://github.com/Vinithepoohhh/Zomato-SQL-Project.git
+   
